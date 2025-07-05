@@ -52,14 +52,12 @@ Nowe opony zimowe na przód Laufenn I Fit+ 195/65/R15
 
 Wymiana oleju Castrol 5W40 505.01
 
----
 
 [**19.04.2024**]
 > \- km
 
 Wymiana siłownika maski STABILUS
 
----
 
 [**01.05.2024**]
 > 259 495 km
