@@ -66,21 +66,15 @@ Wymiana siłownika maski STABILUS
 
 Wymiana tarcz tył TRW DF2651 + klocki TRW
 
----
-
 [**28.10.2024**]
 > 264 317 km
 
 Wymiana napinacza paska wielorowkowego Kamoka R0145, pasek SKF 5PK1432 / sprzęgło klimy igła, sprzęgło alternatora git
 
----
-
 [**30.12.2024**]
 > \- km
 
 Nowe felgi "WELLINGTON" 7JX15H2 ET37 + nowe opony zimowe na przód Laufenn I Fit+ 195/65/R15
-
----
 
 [**30.12.2024**]
 > \- km
