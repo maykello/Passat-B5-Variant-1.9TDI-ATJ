@@ -22,10 +22,20 @@
 
 ## 2022
 
+> **04.10.2022**  
+> 245 426 km
+
+- Wymiana licznika na poliftowy z 1/2 FIS - 3B0 920 829A
+
 > **13.10.2022**  
 > 245 700 km
 
 - Wymiana oleju Castrol 5W40 505.01
+
+> **29.10.2022**  
+> 246 197 km
+
+- Montaż manetek tempomatu oraz do obsługi licznika
 
 ## 2023
 
@@ -33,6 +43,15 @@
 > \- km
 
 - Wymiana siłowników klapy STABILUS STA7628
+
+> **23.06.2023**
+> \- km
+
+- Montaż tylnych szyb elektrycznych
+- Zmiana BCM 1J0 959 799 R na 1C0 959 799 B
+- Zmiana sterowników przednich drzwi na poliftowe
+- Mod na automatyczne zamykanie szyb tylnych czyli modyfikacja wsadu BCM oraz przełącznika szyb
+- Dorobienie 3 kluczyka - scyzoryk z wbudowanym pilotem
 
 > **13.09.2023**  
 > 252 597 km
