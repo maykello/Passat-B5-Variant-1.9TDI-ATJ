@@ -73,9 +73,7 @@
 
 - Wymiana napinacza paska wielorowkowego Kamoka R0145  
 - Wymiana paska wielorowkowego SKF 5PK1432  
-- Sprawdzenie:
-  - Sprzęgło klimy – igła  
-  - Sprzęgło alternatora – git
+- Sprawdzenie - sprzęgło klimy – igła, sprzęgło alternatora – git
 
 > **30.12.2024**  
 > \- km
