@@ -120,3 +120,6 @@
 - Wymiana węży klimatyzacji:
   - 8D0260704N – LP od sprężarki do osuszacza  
   - 8D0260701N – HP od sprężarki do skraplacza
+  - 3B1260710D - HP od skraplacza do dyszy rozprężnej
+- Oklejenie boczków "skórą" pełna amatorka
+- Obszycie kierownicy "skórą"
